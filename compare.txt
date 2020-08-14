@@ -1,0 +1,16 @@
+		
+
+				comparision within each algorithm:
+
+Selection sort - performs the same iterations reglardless of how much of array is sorted.
+Insertion sort - Sorted arrays need significantly less iterations.
+Bubble sort - Sorted arrays need significantly less iterations.
+Merge sort - Performs the same number of iterations regardless of how much is sorted because it breaks up the array. (My counter has an issue)
+Quick sort - Performs less iterations if array is not sorted.
+Heap sort - (counter has an issue)
+
+
+				comparision across althorithms:
+Across algorithms, quick sort had the least iterations with merge sort in the same ballpark. 
+Selection sort had the most. For an array that is already sorted, 
+Insertion Sort and Bubble sort perfom equally as the fastest. 
