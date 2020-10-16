@@ -7,7 +7,7 @@ Insertion sort - Sorted arrays need significantly less iterations.
 Bubble sort - Sorted arrays need significantly less iterations.
 Merge sort - Performs the same number of iterations regardless of how much is sorted because it breaks up the array. (My counter has an issue)
 Quick sort - Performs less iterations if array is not sorted.
-Heap sort - (counter has an issue)
+
 
 
 				comparision across althorithms:
