@@ -1,5 +1,5 @@
-# generic-algorithms
-Generic version of 6 sorting algorithms 
+# generics-algorithms
+6 generic sorting algorithms 
 
 This project covers advanced topics in java. 
 I first read through and understood how 6 different sorting algorithms work and then I converted them from mehtods that only take ints into methods that take any type.
